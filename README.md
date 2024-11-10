@@ -1,7 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 
-# NAME : AADITHYA R
-# REGISTER NUMBER : 212223240001
+### NAME : AADITHYA R
+### REGISTER NUMBER : 212223240001
 
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
